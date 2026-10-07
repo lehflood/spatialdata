@@ -1,0 +1,2 @@
+# spatialdata
+Glasgow GIS class
